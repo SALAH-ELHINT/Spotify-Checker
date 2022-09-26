@@ -1,3 +1,6 @@
+'''
+by SALAH-ELHINT "https://github.com/SALAH-ELHINT/Spotify-Checker.git"
+'''
 import pip
 
 install=[
@@ -154,3 +157,9 @@ finally:
     print()
     driver.close()
     print(f'\n\033[1;33;40m Checker result - \033[1;32;40m[+] Good Accounts  : [{good_acc}] \033[1;33;40m~~~ \033[1;31;40m[-] Bad Accounts  :  [{bad_acc}] \n')
+
+    
+
+'''
+by SALAH-ELHINT "https://github.com/SALAH-ELHINT/Spotify-Checker.git"
+'''
